@@ -14,3 +14,8 @@ User studies, including feedback from 12 participants from various professional 
 They measure the time it takes to create the story they are given and participants are evaluated based on their success. 
 This paper effectively showcases the development and potential of ScrollyVis as a tool for enhancing the presentation of scientific information through engaging, dynamic narratives.
 It contributes to the field by addressing the need for more accessible and interactive storytelling tools in scientific communication.
+
+Mörth, Eric, Stefan Bruckner, and Noeska N. Smit. "ScrollyVis: Interactive visual authoring of guided dynamic narratives for scientific scrollytelling." IEEE Transactions on Visualization and Computer Graphics (2022).
+
+Paper link:https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9887905
+
